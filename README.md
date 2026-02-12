@@ -1,7 +1,7 @@
 # Yoooo! Ace here ❤️
 
 [![X](https://img.shields.io/badge/X-57-cf4b1f?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YtFreewdd)
-[![Portfolio](https://img.shields.io/badge/Ace75-portfolio-black?style=for-the-badge)](https://acerider75/github.io)
+[![Portfolio](https://img.shields.io/badge/Ace75-portfolio-black?style=for-the-badge)](https://acerider75.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-495-1f71cf?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/acerider75)
 
 building @**[Chronos](https://github.com/Acerider75/chronos)** 
