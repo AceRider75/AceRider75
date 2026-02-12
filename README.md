@@ -24,7 +24,15 @@ and a lottt of Certificates of Participation 💀
 
 
 ## Some nerdy stuff...
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AceRider75&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AceRider75&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AceRider75&theme=tokyonight)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AceRider75)](https://git.io/streak-stats)
+
+
 
 
 ---
