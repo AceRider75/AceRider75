@@ -24,13 +24,12 @@ and a lottt of Certificates of Participation 💀
 
 
 ## Some nerdy stuff...
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AceRider75&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AceRider75&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AceRider75&theme=github)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AceRider75&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AceRider75&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AceRider75&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AceRider75)](https://git.io/streak-stats)
+
+![Chapa Badge](https://chapa.thecreativetoken.com/u/AceRider75/badge.svg)
 
 
 
